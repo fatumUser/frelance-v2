@@ -21,6 +21,9 @@ function imgPlusMinus() {
   document
     .getElementById("accordeon-block__img-minus")
     .classList.toggle("accordeon-block__img-minus-show");
+    document
+    .getElementById("faq-top")
+    .classList.toggle("faq-top-show");
 }
 function imgPlusMinus_2() {
   document
