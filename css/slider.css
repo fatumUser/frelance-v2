@@ -769,6 +769,9 @@ button.swiper-pagination-bullet {
     margin-top: 30px;
     background: #FFC346;
   }
+  .slider-bnt-hover:hover .swiper-slide__button {
+    background-color: #ffad00;
+  }
 .swiper-slide__button p {
     margin: auto;
     font-size: 20px;
