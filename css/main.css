@@ -1414,9 +1414,7 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos] {
   touch-action: pan-y;
   -webkit-tap-highlight-color: transparent;
 }
-body , html {
-   overflow: hidden;
-}
+
 .slick-list {
   position: relative;
   display: block;
