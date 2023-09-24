@@ -1713,7 +1713,7 @@ li {
 }
 body,
 html {
-  height: 100%;
+  overflow-x: hidden;
 }
 body.scroll-hidden,
 html.scroll-hidden {
