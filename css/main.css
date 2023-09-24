@@ -1719,6 +1719,9 @@ body.scroll-hidden,
 html.scroll-hidden {
   overflow: hidden;
 }
+html {
+  overflow-x: hidden;
+}
 body {
  /* font-family: "TT Norms", sans-serif; */
   font-family: 'Inter'; /* Новый шрифт */
